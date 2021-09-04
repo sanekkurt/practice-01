@@ -1,0 +1,43 @@
+commit 7442054074e1e7d4c22aa2f20685119e73cc78f2
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:23:54 2021 +0500
+
+    add prerelease.txt
+
+commit 3249690f36e09843e0cf205bcf3086c6faf3c44d
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:23:12 2021 +0500
+
+    add test txt
+
+commit 29c29d439aaf1116d16e2e7ffffbd73796ce7137
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:20:44 2021 +0500
+
+    commit .gitignore
+
+commit 5e79325b28b78f739530c74ef767250a934b1957
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:15:42 2021 +0500
+
+    Revert "my second edited commit"
+    
+    This reverts commit 4f7c17ca403ed71e7dccbb994a580c54b7a9afdd.
+
+commit 40e89482c76f26dc5ad1d723bffa9342b5ce27d9
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:12:06 2021 +0500
+
+    my third commit
+
+commit 4f7c17ca403ed71e7dccbb994a580c54b7a9afdd
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:08:01 2021 +0500
+
+    my second edited commit
+
+commit b38da50601aeee13b6712fe843015a2267a5aaac
+Author: Alexander Bukhalko <sanek_kurt@mail.ru>
+Date:   Sat Sep 4 14:01:26 2021 +0500
+
+    my first commit
